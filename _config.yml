@@ -1,0 +1,17 @@
+# Site settings
+title: "Munmun + Manjeet"
+description: |
+    Munsyari, Uttarakhand
+
+    May 04, 2018
+owner: Manjeet
+first_published: 2017
+email: mark@mark.gg
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "www.munmunandmanjeet.wedding" # the base hostname & protocol for your site
+
+social:
+  github: https://github.com/markcerqueira/wedding-site
+
+# Build settings
+markdown: kramdown
